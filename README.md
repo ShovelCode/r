@@ -1,2 +1,2 @@
 # r
-r statistics code
+R Statistics Code
